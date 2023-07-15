@@ -1,5 +1,5 @@
 # Continuous Intelligence and Interactive Analytics - Working With Data
-- Testing deploy v2
+- Testing deploy v3
 - Interactive app: [cintel-03-data](https://hpotluri.shinyapps.io/cintel-03-data/) - see MT Cars tab and Penguins tab
 - Repository: [cintel-03-data](https://github.com/hpotluri/cintel-03-data)
 - Author: [Denise Case](https://github.com/hpotluri)
